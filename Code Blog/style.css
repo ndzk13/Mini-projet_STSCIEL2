@@ -1,0 +1,27 @@
+nav a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+}
+
+nav a:hover {
+    font-size: 32px;
+}
+
+body {
+    background-image: url('https://i.ibb.co/5xn2Wtvk/d716555b-93dc-46d9-a667-b612e33bc2c5.png');
+     background-size: cover;        /* l’image couvre tout l’écran */
+  background-repeat: no-repeat;  /* pas de répétition */
+  background-position: center;   /* centrée */
+  background-attachment: fixed;
+
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    top: 0px;
+    gap: 50px;
+    padding: 20px 0;           
+}
