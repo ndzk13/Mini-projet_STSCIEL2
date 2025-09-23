@@ -22,11 +22,11 @@ Il s'agit d'un projet de développement de site web basé sur un cahier des char
 
 ## 📌 Roadmap
 
-* [ ] Login
-* [ ] Barre de navigation
-* [ ] Carrousel de photos
-* [ ] Page avec vidéo intégrée
-* [ ] Page avec un parallaxe
+* [X] Login
+* [X] Barre de navigation
+* [X] Carrousel de photos
+* [X] Page avec vidéo intégrée
+* [X] Page avec un parallaxe
 
 ---
 
