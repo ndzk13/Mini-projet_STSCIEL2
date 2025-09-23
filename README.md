@@ -2,6 +2,8 @@
 
 Il s'agit d'un projet de développement de site web basé sur un cahier des charges. Le projet s'inscrit dans le cadre de notre formation scolaire supérieure.
 
+**Voici le lien du site : www.manger-pour-un-rouge.ct.ws**
+
 ---
 
 ## 🚀 Installation
