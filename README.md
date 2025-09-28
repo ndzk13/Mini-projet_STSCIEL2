@@ -46,3 +46,5 @@ Merci de créer une *issue* pour signaler un bug ou une suggestion.
 **Aucune licence**  
 Ce projet est protégé par le droit d’auteur (**All rights reserved**).  
 Vous n’êtes pas autorisé à utiliser, copier, modifier ou redistribuer ce code sans mon accord explicite.
+
+Aussi, pour des raisons de droit d'auteur : aucunes image ou vidéo fournie sur le site n'est publiée dans ce dépôt.
